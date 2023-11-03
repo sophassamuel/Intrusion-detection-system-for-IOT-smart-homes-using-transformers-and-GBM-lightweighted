@@ -8,9 +8,7 @@ This project implements an Intrusion Detection System (IDS) for IoT smart homes 
 
 Before running this project, make sure you have the following prerequisites:
 
-- Python 3.x
-- Required libraries (see `requirements.txt`)
-
+- Python 3.9 or above
 ## Installation
 
 1. Clone the repository:
